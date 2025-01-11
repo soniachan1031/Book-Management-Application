@@ -1,6 +1,7 @@
 <p><b>Enhanced Book Management Application</b></p>
+</br>
 <p>This project is a feature-rich Book Management Application developed using ASP.NET Core MVC and Entity Framework.</p>
-
+</br>
 <p><b>Login:</b></p>
 <img width="1270" alt="image" src="https://github.com/user-attachments/assets/01bdd96d-863d-4b2e-9e82-92274be13722" />
 
