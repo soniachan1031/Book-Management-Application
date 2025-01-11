@@ -1,8 +1,4 @@
-<p><b>Enhanced Book Management Application  <style>
-    p {
-      text-decoration: underline;
-    }
-  </style></b></p>
+<p><b>Enhanced Book Management Application</b></p>
 <p>This project is a feature-rich Book Management Application developed using ASP.NET Core MVC and Entity Framework.</p>
 
 <p><b>Login:</b></p>
