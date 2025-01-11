@@ -1,16 +1,22 @@
 This project is to develop a robust Enhanced Book Management Application using ASP.NET Core MVC with Entity Framework. The application must include both an Admin Panel and a Member Panel, integrating advanced functionality and a polished design.
 
-<p>Login</p>
-<img width="680" alt="image" src="https://github.com/user-attachments/assets/c1622b1a-2cf8-414c-84a1-493c28587a86" />
+<p><em>Login</em></p>
+<img width="1270" alt="image" src="https://github.com/user-attachments/assets/01bdd96d-863d-4b2e-9e82-92274be13722" />
+
+</br>
+
+<p><em>Registration</em></p>
+<img width="1274" alt="image" src="https://github.com/user-attachments/assets/e13b4252-58b9-4fb7-9454-11c407166fd8" />
+
+</br>
 
 
-<p>Registration</p>
-<img width="680" alt="image" src="https://github.com/user-attachments/assets/8f6cf7b4-7840-40cb-9669-2f7668da3e6d" />
-
-
-<p>Admin Panel</p>
+<p><em>Admin Panel</em></p>
 <img width="680" alt="image" src="https://github.com/user-attachments/assets/8978d5b3-f9f4-4732-bc77-34103ad89ce8" />
 
 
-<p>Member Panel</p>
+</br>
+
+
+<p><em>Member Panel</em></p>
 <img width="680" alt="image" src="https://github.com/user-attachments/assets/678dcff1-47c0-4de9-935f-8891f282e945" />
