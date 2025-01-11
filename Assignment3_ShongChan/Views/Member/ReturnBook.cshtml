@@ -1,0 +1,38 @@
+﻿@model List<Book>
+
+<div class="container mt-4">
+    <h2>Return a Book</h2>
+
+    @if (!Model.Any())
+    {
+        <p>You have no books to return.</p>
+    }
+    else
+    {
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Author</th>
+                    <th>Genre</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var book in Model)
+                {
+                    <tr>
+                        <td>@book.Title</td>
+                        <td>@book.Author</td>
+                        <td>@book.Genre?.Name</td>
+                        <td>
+                            <form method="post" asp-action="ReturnBook" asp-route-id="@book.Id">
+                                <button type="submit" class="btn btn-warning">Return</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>

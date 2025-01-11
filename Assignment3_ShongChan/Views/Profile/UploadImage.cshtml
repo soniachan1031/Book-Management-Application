@@ -1,0 +1,39 @@
+﻿@model User
+@{
+    ViewData["Title"] = "Upload Profile Picture";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow-lg p-4">
+                <h2 class="text-center">Upload Profile Picture</h2>
+
+                @if (TempData["Message"] != null)
+                {
+                    <div class="alert alert-success text-center">
+                        @TempData["Message"]
+                    </div>
+                }
+                @if (TempData["Error"] != null)
+                {
+                    <div class="alert alert-danger text-center">
+                        @TempData["Error"]
+                    </div>
+                }
+
+                <form asp-controller="Profile" asp-action="UploadImage" method="post" enctype="multipart/form-data">
+                    <div class="form-group mb-3">
+                        <label for="ProfileImage" class="form-label">Choose Profile Picture</label>
+                        <input type="file" id="ProfileImage" name="profileImage" class="form-control" />
+                    </div>
+                    <button type="submit" class="btn btn-outline-primary w-100">Upload</button>
+                </form>
+
+                <div class="text-center mt-3">
+                    <a asp-controller="Profile" asp-action="Index" class="btn btn-outline-secondary w-100">Back to Profile</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

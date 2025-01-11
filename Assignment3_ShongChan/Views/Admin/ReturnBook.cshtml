@@ -1,0 +1,40 @@
+﻿@model IEnumerable<IssuedBookViewModel>
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Return Book</h2>
+
+    <table class="table table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>Issued to Member</th>
+                <th>Book Title</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.MemberName</td>
+                    <td>@item.BookTitle</td>
+                    <td>
+                        <form asp-action="ReturnBookConfirmed" method="post" class="d-inline">
+                            <input type="hidden" name="memberId" value="@item.MemberId" />
+                            <input type="hidden" name="bookId" value="@item.BookId" />
+                            <button type="submit" class="btn btn-danger">
+                                <i class="bi bi-check-circle"></i> Confirm Return
+                            </button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="mt-4">
+        <a asp-action="Books" asp-controller="Admin" class="btn btn-secondary btn-sm mx-1">
+            <span class="fa-solid fa-arrow-left"></span> Back
+        </a>
+    </div>
+</div>
+

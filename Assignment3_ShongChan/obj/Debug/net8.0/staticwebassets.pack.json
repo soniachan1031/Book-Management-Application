@@ -1,0 +1,853 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\02357ce1-2382-4815-982c-d3ef766eac1b_123.jpeg",
+      "PackagePath": "staticwebassets\\Images\\02357ce1-2382-4815-982c-d3ef766eac1b_123.jpeg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\0cb9689f-eff1-4e57-9591-ca205d2ce72e_bomberman.jpg",
+      "PackagePath": "staticwebassets\\Images\\0cb9689f-eff1-4e57-9591-ca205d2ce72e_bomberman.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\29be9c02-6c49-4007-8fb4-a6885372e345_bomberman.jpg",
+      "PackagePath": "staticwebassets\\Images\\29be9c02-6c49-4007-8fb4-a6885372e345_bomberman.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\31d855e8-bf8f-4b6b-85df-bab29dfbdaad_bomberman.jpg",
+      "PackagePath": "staticwebassets\\Images\\31d855e8-bf8f-4b6b-85df-bab29dfbdaad_bomberman.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\547383e8-fcb1-43fd-8426-095b585fb280_bomberman.jpg",
+      "PackagePath": "staticwebassets\\Images\\547383e8-fcb1-43fd-8426-095b585fb280_bomberman.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\5967f68e-a898-424c-98b1-5228845ef74e_123.jpeg",
+      "PackagePath": "staticwebassets\\Images\\5967f68e-a898-424c-98b1-5228845ef74e_123.jpeg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\67969212-7337-43f4-9390-7e96b667616e_123.jpeg",
+      "PackagePath": "staticwebassets\\Images\\67969212-7337-43f4-9390-7e96b667616e_123.jpeg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\6fcb7b00-5289-4438-b88e-837a46d6f6e9_bomberman.jpg",
+      "PackagePath": "staticwebassets\\Images\\6fcb7b00-5289-4438-b88e-837a46d6f6e9_bomberman.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\7210b74f-4265-4906-8bb6-87de8025e450_bomberman.jpg",
+      "PackagePath": "staticwebassets\\Images\\7210b74f-4265-4906-8bb6-87de8025e450_bomberman.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\8b76603b-0eff-4cf6-a156-7983b869de90_123.jpeg",
+      "PackagePath": "staticwebassets\\Images\\8b76603b-0eff-4cf6-a156-7983b869de90_123.jpeg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\a0c03764-6b03-4a3d-8ae9-aeeb5c95dc1d_123.jpeg",
+      "PackagePath": "staticwebassets\\Images\\a0c03764-6b03-4a3d-8ae9-aeeb5c95dc1d_123.jpeg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\a81c988e-6222-493b-8deb-2030517a35a2_bomberman.jpg",
+      "PackagePath": "staticwebassets\\Images\\a81c988e-6222-493b-8deb-2030517a35a2_bomberman.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\aa5cdafa-e28a-4d22-91e7-e4a2357bd88d_bomberman.jpg",
+      "PackagePath": "staticwebassets\\Images\\aa5cdafa-e28a-4d22-91e7-e4a2357bd88d_bomberman.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\abd223d4-74f1-4a7f-bf3e-4d55d26b725c_123.jpeg",
+      "PackagePath": "staticwebassets\\Images\\abd223d4-74f1-4a7f-bf3e-4d55d26b725c_123.jpeg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\c022297a-faf4-43cb-ac55-a19b1a3bf46c_123.jpeg",
+      "PackagePath": "staticwebassets\\Images\\c022297a-faf4-43cb-ac55-a19b1a3bf46c_123.jpeg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\c59c3a5b-854b-42bc-a79a-746cfa80c083_bomberman.jpg",
+      "PackagePath": "staticwebassets\\Images\\c59c3a5b-854b-42bc-a79a-746cfa80c083_bomberman.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\cee2fa03-a363-4978-8a7b-b8d0e038a9e0_123.jpeg",
+      "PackagePath": "staticwebassets\\Images\\cee2fa03-a363-4978-8a7b-b8d0e038a9e0_123.jpeg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\d9d12dba-bb07-4ace-9341-6f0280f24266_123.jpeg",
+      "PackagePath": "staticwebassets\\Images\\d9d12dba-bb07-4ace-9341-6f0280f24266_123.jpeg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\de0ee284-cf9e-4a4f-9191-a47f51b79ba7_123.jpeg",
+      "PackagePath": "staticwebassets\\Images\\de0ee284-cf9e-4a4f-9191-a47f51b79ba7_123.jpeg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\default-profile.png",
+      "PackagePath": "staticwebassets\\Images\\default-profile.png"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\e2573ec2-57e9-4291-a9e0-214d6539ba8d_123.jpeg",
+      "PackagePath": "staticwebassets\\Images\\e2573ec2-57e9-4291-a9e0-214d6539ba8d_123.jpeg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\e962c4b5-9cfe-4644-8b22-013987453e55_bomberman.jpg",
+      "PackagePath": "staticwebassets\\Images\\e962c4b5-9cfe-4644-8b22-013987453e55_bomberman.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\f1085755-a692-412d-a172-e0ec037119b1_123.jpeg",
+      "PackagePath": "staticwebassets\\Images\\f1085755-a692-412d-a172-e0ec037119b1_123.jpeg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\f3d09a4b-77c9-428a-ab6a-00352f89d029_123.jpeg",
+      "PackagePath": "staticwebassets\\Images\\f3d09a4b-77c9-428a-ab6a-00352f89d029_123.jpeg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\f3f9870b-67ac-41de-aa14-350115162220_123.jpeg",
+      "PackagePath": "staticwebassets\\Images\\f3f9870b-67ac-41de-aa14-350115162220_123.jpeg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\ff7d8eb0-353e-4c61-b9ba-711ddb4befd3_123.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ff7d8eb0-353e-4c61-b9ba-711ddb4befd3_123.jpeg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\Images\\library_banner.jpg",
+      "PackagePath": "staticwebassets\\Images\\library_banner.jpg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Workspace\\Sem 3\\PROG2230 Programming Microsoft Web Technologies\\Final Project\\Assignment3_ShongChan\\Assignment3_ShongChan\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Assignment3_ShongChan.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Assignment3_ShongChan.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Assignment3_ShongChan.props",
+      "PackagePath": "build\\Assignment3_ShongChan.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Assignment3_ShongChan.props",
+      "PackagePath": "buildMultiTargeting\\Assignment3_ShongChan.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Assignment3_ShongChan.props",
+      "PackagePath": "buildTransitive\\Assignment3_ShongChan.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

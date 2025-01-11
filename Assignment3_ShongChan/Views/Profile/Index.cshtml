@@ -1,0 +1,110 @@
+﻿@model User
+@{
+    ViewData["Title"] = "Profile";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow-lg p-4">
+                <h2 class="text-center">My Profile</h2>
+
+                @if (ViewData["Message"] != null)
+                {
+                    <div class="alert alert-success text-center fw-bold">
+                        <span class="fas fa-check-circle"></span> @ViewData["Message"]
+                    </div>
+                }
+                @if (TempData["Message"] != null)
+                {
+                    <div class="alert alert-success text-center fw-bold">
+                        <span class="fas fa-check-circle"></span> @TempData["Message"]
+                    </div>
+                }
+                @if (ViewBag.Error != null)
+                {
+                    <div class="alert alert-danger text-center fw-bold">
+                        <span class="fas fa-times-circle"></span> @ViewBag.Error
+                    </div>
+                }
+
+                <div class="text-center mb-4">
+                    @if (!string.IsNullOrEmpty(Model.ProfilePic))
+                    {
+                        <img src="@Model.ProfilePic?timestamp=@DateTime.Now.Ticks"
+                             alt="Profile Picture"
+                             class="img-thumbnail rounded-circle"
+                             width="150" height="150" />
+                    }
+                    else
+                    {
+                        <img src="/Images/default-profile.png"
+                             alt="Default Profile Picture"
+                             class="img-thumbnail rounded-circle"
+                             width="150" height="150" />
+                    }
+                </div>
+
+                <form asp-action="Index" method="post" enctype="multipart/form-data">
+                    <input type="hidden" asp-for="Id" />
+                    <div class="form-group mb-3">
+                        <label asp-for="Name" class="form-label">Full Name</label>
+                        <input asp-for="Name" class="form-control" placeholder="Enter your full name" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-3">
+                        <label asp-for="DateOfBirth" class="form-label">Date of Birth</label>
+                        <input asp-for="DateOfBirth" class="form-control" type="date" id="dateOfBirth" onchange="calculateAge()" />
+                        <span class="text-danger" data-valmsg-for="DateOfBirth" data-valmsg-replace="true"></span>
+                    </div>
+                    <div class="form-group mb-3">
+                        <label asp-for="Age" class="form-label">Age</label>
+                        <input asp-for="Age" class="form-control" id="age" readonly />
+                        <span asp-validation-for="Age" class="text-danger"></span>
+                    </div>
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-outline-primary">Save</button>
+                        <a asp-action="UploadImage" class="btn btn-outline-primary">Upload/Change Profile Picture</a>
+                        <a asp-action="ChangePassword" class="btn btn-outline-secondary">Change Password</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function calculateAge() {
+            const dobInput = document.getElementById('dateOfBirth').value;
+            const ageInput = document.getElementById('age');
+            const errorSpan = document.querySelector("span[data-valmsg-for='DateOfBirth']");
+
+            if (!dobInput) {
+                if (errorSpan) errorSpan.textContent = "Please enter a valid date of birth.";
+                ageInput.value = "";
+                return;
+            }
+
+            const dob = new Date(dobInput + "T00:00:00");
+            const today = new Date();
+
+            if (dob >= today) {
+                if (errorSpan) errorSpan.textContent = "Date of birth cannot be today or in the future.";
+                ageInput.value = "";
+                return;
+            }
+
+            let age = today.getFullYear() - dob.getFullYear();
+            const monthDifference = today.getMonth() - dob.getMonth();
+            const dayDifference = today.getDate() - dob.getDate();
+
+            if (monthDifference < 0 || (monthDifference === 0 && dayDifference < 0)) {
+                age--;
+            }
+
+            ageInput.value = age > 0 ? age : "0";
+            if (errorSpan) errorSpan.textContent = "";
+        }
+    </script>
+}

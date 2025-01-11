@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Book>
+
+<div class="container mt-4" >
+    <h2>My Issued Book</h2>
+    @if (!Model.Any())
+    {
+        <p>You have not issued any books yet.</p>
+    }
+    else
+    {
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Author</th>
+                    <th>Genre</th>
+                    <th>Year</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var book in Model)
+                {
+                    <tr>
+                        <td>@book.Title</td>
+                        <td>@book.Author</td>
+                        <td>@book.Genre?.Name</td>
+                        <td>@book.Year</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>

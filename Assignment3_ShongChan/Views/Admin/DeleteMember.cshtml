@@ -1,0 +1,33 @@
+﻿@model User
+@{
+    ViewBag.Title = "Delete Member";
+}
+
+<div class="container">
+    <h2 class="text-danger">Delete Member</h2>
+    <form asp-action="DeleteMember" method="post">
+        <input type="hidden" asp-for="Id" />
+        <div class="alert alert-danger">
+            <h3>Are you sure you want to delete this member?</h3>
+            <ul>
+                <li><strong>Name:</strong> @Model.Name</li>
+                <li><strong>Username:</strong> @Model.Username</li>
+                <li><strong>Date of Birth:</strong> @Model.DateOfBirth.ToShortDateString()</li>
+                <li>
+                    <strong>Assigned Book:</strong>
+                    @if (Model.Book != null && !string.IsNullOrEmpty(Model.Book.Title))
+                    {
+                        @Model.Book.Title
+                    }
+                    else
+                    {
+                        <span>No Book Assigned</span>
+                    }
+                </li>
+            </ul>
+        </div>
+
+        <button type="submit" class="btn btn-danger">Confirm Delete</button>
+        <a asp-action="MemberList" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>

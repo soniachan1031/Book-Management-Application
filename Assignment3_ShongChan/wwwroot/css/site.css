@@ -1,0 +1,38 @@
+﻿h1 {
+    font-size: 1.75em;
+}
+
+header {
+    padding: 0 1rem;
+    background-color: #eeeeee;
+    border-radius: 0.3rem;
+    margin-bottom: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.input-validation-error {
+    border: 2px solid #dc3545; 
+    background-color: #faebd7; 
+}
+
+.navbar-brand {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700; 
+    font-size: 28px; 
+    color: #ffffff; 
+}
+
+.navbar-brand span {
+    font-size: 30px; 
+}
+
+.is-invalid {
+    border-color: red;
+}
+
+.dropdown-menu.fade {
+    transition: opacity 0.5s ease-in-out;
+}

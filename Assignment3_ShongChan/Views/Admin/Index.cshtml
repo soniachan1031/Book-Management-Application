@@ -1,0 +1,24 @@
+﻿@model User
+@using Assignment3_ShongChan.Services
+
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4 text-center">Welcome, @Model.Username</h1>
+    <div class="row gap-3 justify-content-center">
+        @Html.Raw(UIHelper.Card(Url, "<i class='fa-solid fa-users'></i> Members",
+                 "","Go to Members", "btn-primary", "MemberList", "Admin"))
+        @Html.Raw(UIHelper.Card(Url, "<i class='fa-solid fa-book'></i> Books",
+                 "","Go to Books", "btn-primary", "Books", "Admin"))
+        @Html.Raw(UIHelper.Card(Url, "<i class='fa-solid fa-user-plus'></i> Add Member",
+                 "","Add Member", "btn-success", "AddMember", "Admin"))
+        @Html.Raw(UIHelper.Card(Url, "<i class='fa-solid fa-book-medical'></i> Add Book",
+                 "","Add Book", "btn-success", "AddBook", "Admin"))
+        @Html.Raw(UIHelper.Card(Url, "<i class='fa-solid fa-hand-holding'></i> Issue Book",
+                 "","Issue Book", "btn-warning", "IssueBook", "Admin"))
+        @Html.Raw(UIHelper.Card(Url, "<i class='fa-solid fa-undo'></i> Return Book",
+                 "","Return Book", "btn-danger", "ReturnBook", "Admin"))
+    </div>
+</div>

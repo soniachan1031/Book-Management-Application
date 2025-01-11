@@ -1,0 +1,33 @@
+﻿@model IssuedBookViewModel
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Issue Book</h2>
+
+    <form asp-action="IssueBook" method="post">
+        <div class="mb-3">
+            <label for="memberId" class="form-label">Select Member</label>
+            <select id="memberId" name="memberId" class="form-select" required>
+                <option value="" selected disabled>Select a member</option>
+                @foreach (var member in Model.Members)
+                {
+                    <option value="@member.Id">@member.Name</option>
+                }
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label for="bookId" class="form-label">Select Book</label>
+            <select id="bookId" name="bookId" class="form-select" required>
+                <option value="" selected disabled>Select a book</option>
+                @foreach (var book in Model.Books)
+                {
+                    <option value="@book.Id">@book.Title</option>
+                }
+            </select>
+        </div>
+        <div class="mb-3">
+            <button type="submit" class="btn btn-primary">Issue Book</button>
+            <a asp-action="Books" class="btn btn-secondary">Cancel</a>
+        </div>
+    </form>
+</div>

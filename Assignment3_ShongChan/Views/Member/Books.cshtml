@@ -1,0 +1,91 @@
+﻿@model SearchBookViewModel
+@{
+    ViewData["Title"] = "Books";
+}
+
+<div class="container-fluid mt-4">
+    <div class="row">
+
+        <aside class="col-md-3 col-lg-2">
+            <form method="get" asp-action="Books">
+                <h5>Filter</h5>
+                <div class="form-group mb-3">
+                    <label for="searchTerm">Search</label>
+                    <input type="text" id="searchTerm" name="searchTerm" value="@Model.SearchTerm" class="form-control" placeholder="Search for books..." />
+                </div>
+
+                <h5>Genre</h5>
+                <div class="list-group mb-3">
+                    <a asp-action="Books" asp-route-genre="" class="list-group-item list-group-item-action @(string.IsNullOrEmpty(Model.SelectedGenre) ? "active" : "")">
+                        All Genres
+                    </a>
+                    @if (Model.Genres != null)
+                    {
+                        @foreach (var genre in Model.Genres)
+                        {
+                            <a asp-action="Books" asp-route-genre="@genre.Name" class="list-group-item list-group-item-action @(genre.Name == Model.SelectedGenre ? "active" : "")">
+                                @genre.Name
+                            </a>
+                        }
+                    }
+                </div>
+
+                <h5>Availability</h5>
+                <div class="list-group mb-3">
+                    <a asp-action="Books" asp-route-available="true" class="list-group-item list-group-item-action @(Model.Available == true ? "active" : "")">Available</a>
+                    <a asp-action="Books" asp-route-available="false" class="list-group-item list-group-item-action @(Model.Available == false ? "active" : "")">Unavailable</a>
+                </div>
+                <button type="submit" class="btn btn-primary">Apply Filters</button>
+            </form>
+        </aside>
+
+        <!-- Main Content Area for Book Results -->
+        <main class="col-md-9 col-lg-10">
+            <h2>Search Results</h2>
+
+            @if (Model.Books != null && Model.Books.Count == 0)
+            {
+                <p>No books found.</p>
+            }
+            else
+            {
+                <table class="table bg-white p-5">
+                    <thead>
+                        <tr>
+                            <th>
+                                <a asp-action="Books" asp-route-sortBy="title" asp-route-sortOrder="@(Model.SortBy == "title" && Model.SortOrder == "asc" ? "desc" : "asc")">Title @(Model.SortBy == "title" ? (Model.SortOrder == "asc" ? "▲" : "▼") : "")</a>
+                            </th>
+                            <th>
+                                <a asp-action="Books" asp-route-sortBy="author" asp-route-sortOrder="@(Model.SortBy == "author" && Model.SortOrder == "asc" ? "desc" : "asc")">Author @(Model.SortBy == "author" ? (Model.SortOrder == "asc" ? "▲" : "▼") : "")</a>
+                            </th>
+                            <th>
+                                <a asp-action="Books" asp-route-sortBy="genre" asp-route-sortOrder="@(Model.SortBy == "genre" && Model.SortOrder == "asc" ? "desc" : "asc")">Genre @(Model.SortBy == "genre" ? (Model.SortOrder == "asc" ? "▲" : "▼") : "")</a>
+                            </th>
+                            <th>
+                                <a asp-action="Books" asp-route-sortBy="year" asp-route-sortOrder="@(Model.SortBy == "year" && Model.SortOrder == "asc" ? "desc" : "asc")">Year @(Model.SortBy == "year" ? (Model.SortOrder == "asc" ? "▲" : "▼") : "")</a>
+                            </th>
+                            <th>
+                                <a asp-action="Books" asp-route-sortBy="isAvailable" asp-route-sortOrder="@(Model.SortBy == "isAvailable" && Model.SortOrder == "asc" ? "desc" : "asc")">Is Available @(Model.SortBy == "isAvailable" ? (Model.SortOrder == "asc" ? "▲" : "▼") : "")</a>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model.Books != null)
+                        {
+                            @foreach (var book in Model.Books)
+                            {
+                                <tr>
+                                    <td>@book.Title</td>
+                                    <td>@book.Author</td>
+                                    <td>@book.Genre?.Name</td>
+                                    <td>@book.Year</td>
+                                    <td>@(book.IsAvailable ? "Yes" : "No")</td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            }
+        </main>
+    </div>
+</div>

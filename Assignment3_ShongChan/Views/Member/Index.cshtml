@@ -1,0 +1,35 @@
+﻿@model User
+@using Assignment3_ShongChan.Services
+
+@{
+    ViewData["Title"] = "Member Dashboard";
+}
+
+<div class="container bg-light p-1 rounded custom-shadow">
+    <br />
+    <h1 class="mb-5 text-center">Welcome to the Book Management Application</h1>
+
+    <h2 class="mb-4 text-center">Hello, @Model.Username</h2>
+
+    <p class="text-center">Feel free to explore your profile and book collection.</p>
+
+    <p class="text-center">This application allows you to manage your book collection, track your reading progress, and explore new books.</p>
+
+    <br />
+    <div class="row justify-content-center">
+        @Html.Raw(UIHelper.Card(Url, "<i class='fa-solid fa-book'></i> Books",
+                 "Browse and borrow books",
+                 "Go to Books", "btn-success", "Books", "Member"))
+        @Html.Raw(UIHelper.Card(Url, "<i class='fa-solid fa-bookmark'></i> My Book",
+                 "View the books you have borrowed",
+                 "View My Books", "btn-primary", "MyBookList", "Member"))
+        <br />
+        @Html.Raw(UIHelper.Card(Url, "<i class='fa-solid fa-hand-holding'></i> Issue Book",
+                 "Browse and issue a book",
+                 "Issue Books", "btn-warning", "IssueBook", "Member"))
+        @Html.Raw(UIHelper.Card(Url, "<i class='fa-solid fa-undo'></i> Return Book",
+                 "View and return borrowed books",
+                 "Return Books", "btn-danger", "ReturnBook", "Member"))
+    </div>
+</div>
+

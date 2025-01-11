@@ -1,0 +1,65 @@
+﻿@using Assignment3_ShongChan.Services
+
+<nav class="navbar navbar-expand-md navbar-dark bg-dark py-3">
+    <div class="container-fluid">
+        <a class="navbar-brand d-flex align-items-center" href="/">
+            <span class="fa-duotone fa-solid fa-book-open-reader" style="font-size: 30px"></span>
+            <span class="ms-2">Conestoga Books</span>
+        </a>
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu" aria-controls="menu" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse justify-content-between" id="navbarNav">
+            <ul class="navbar-nav fs-4">
+                <li class="nav-item">
+                    <a class="nav-link @(NavigationHelper.IsActive(ViewContext, "Admin", "Index") ? "active" : "")" asp-controller="Admin" asp-action="Index">
+                        <i class="fa-solid fa-house"></i> Home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link @(NavigationHelper.IsActive(ViewContext, "Admin", "MemberList") ? "active" : "")" asp-controller="Admin" asp-action="MemberList">
+                        <i class="fa-solid fa-users"></i> Members
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link @(NavigationHelper.IsActive(ViewContext, "Admin", "Books") ? "active" : "")" asp-controller="Admin" asp-action="Books">
+                        <i class="fa-solid fa-book"></i> Books
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link @(NavigationHelper.IsActive(ViewContext, "Admin", "AddMember") ? "active" : "")" asp-controller="Admin" asp-action="AddMember">
+                        <i class="fa-solid fa-user-plus"></i> Add Member
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link @(NavigationHelper.IsActive(ViewContext, "Admin", "AddBook") ? "active" : "")" asp-controller="Admin" asp-action="AddBook">
+                        <i class="fa-solid fa-plus"></i> Add Book
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link @(NavigationHelper.IsActive(ViewContext, "Admin", "IssueBook") ? "active" : "")" asp-controller="Admin" asp-action="IssueBook">
+                        <i class="fa-solid fa-hand-holding"></i> Issue Book
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link @(NavigationHelper.IsActive(ViewContext, "Admin", "ReturnBook") ? "active" : "")" asp-controller="Admin" asp-action="ReturnBook">
+                        <i class="fa-solid fa-undo"></i> Return Book
+                    </a>
+                </li>
+            </ul>
+
+            <ul class="navbar-nav ms-auto fs-4">
+                <partial name="_NavProfileDropDown" />
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<header class="text-center">
+    <a asp-action="Index" asp-controller="Home">
+        <img src="~/Images/library_banner.jpg" class="img-fluid center-block" style="width: 100%; height: 400px;" />
+    </a>
+</header>
+

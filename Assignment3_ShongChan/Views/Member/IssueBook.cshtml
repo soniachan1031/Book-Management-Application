@@ -1,0 +1,52 @@
+﻿@model List<Book>
+
+<div class="container mt-4">
+    <h2>Issue a Book</h2>
+
+    @if (ViewBag.ErrorMessage != null)
+    {
+        <div class="alert alert-danger" role="alert">
+            @ViewBag.ErrorMessage
+        </div>
+    }
+
+    @if (ViewBag.SuccessMessage != null)
+    {
+        <div class="alert alert-success" role="alert">
+            @ViewBag.SuccessMessage
+        </div>
+    }
+
+    @if (!Model.Any())
+    {
+        <p>No books are available for issuing at the moment.</p>
+    }
+    else
+    {
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Author</th>
+                    <th>Genre</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var book in Model)
+                {
+                    <tr>
+                        <td>@book.Title</td>
+                        <td>@book.Author</td>
+                        <td>@book.Genre?.Name</td>
+                        <td>
+                            <form method="post" asp-action="IssueBook" asp-route-id="@book.Id">
+                                <button type="submit" class="btn btn-success">Issue</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>

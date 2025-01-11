@@ -1,0 +1,65 @@
+﻿@model SearchBookViewModel
+@{
+    ViewBag.Title = "Book List";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">@ViewBag.Title</h2>
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">
+            @TempData["ErrorMessage"]
+        </div>
+    }
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Genre</th>
+                <th>Year</th>
+                <th>Quantity</th>
+                <th>Available Quantity</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Books != null && Model.Books.Any())
+            {
+                foreach (var book in Model.Books)
+                {
+                    <tr>
+                        <td>@book.Title</td>
+                        <td>@book.Author</td>
+                        <td>@book.Genre?.Name</td>
+                        <td>@book.Year</td>
+                        <td>@book.Quantity</td>
+                        <td>@book.AvailableQuantity</td>
+                        <td>
+                            <a asp-action="EditBook" asp-route-id="@book.Id" class="btn btn-sm btn-primary">Edit</a>
+                            <a asp-action="DeleteBook" asp-route-id="@book.Id" class="btn btn-sm btn-danger">Delete</a>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="7" class="text-center">No books found.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a asp-action="Index" asp-controller="Home" class="btn btn-secondary btn-sm mx-1">
+        <span class="fa-solid fa-arrow-left"></span> Back
+    </a>
+</div>
