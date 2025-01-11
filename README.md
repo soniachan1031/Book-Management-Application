@@ -16,11 +16,11 @@ Login and Registration:
 </br>
 <p><b>Screenshots:</b></p>
 <p><b>Registration:</b></p>
-<img width="1274" alt="image" src="https://github.com/user-attachments/assets/e13b4252-58b9-4fb7-9454-11c407166fd8" />
+<img width="680" alt="image" src="https://github.com/user-attachments/assets/e13b4252-58b9-4fb7-9454-11c407166fd8" />
 
 </br>
 <p><b>Login:</b></p>
-<img width="1270" alt="image" src="https://github.com/user-attachments/assets/01bdd96d-863d-4b2e-9e82-92274be13722" />
+<img width="680" alt="image" src="https://github.com/user-attachments/assets/01bdd96d-863d-4b2e-9e82-92274be13722" />
 </br>
 <p><b>Admin Panel:</b></p>
 <img width="680" alt="image" src="https://github.com/user-attachments/assets/8978d5b3-f9f4-4732-bc77-34103ad89ce8" />
