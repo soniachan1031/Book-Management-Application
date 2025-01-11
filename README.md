@@ -10,7 +10,7 @@
 
 </br>
 
-<p>Screenshots:</p>
+<p><b>Screenshots:</b></p>
 <p><b>Registration:</b></p>
 <img width="1274" alt="image" src="https://github.com/user-attachments/assets/e13b4252-58b9-4fb7-9454-11c407166fd8" />
 
