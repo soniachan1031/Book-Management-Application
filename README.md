@@ -1,5 +1,4 @@
 <p><b>Enhanced Book Management Application</b></p>
-</br>
 <p>This project is a feature-rich Book Management Application developed using ASP.NET Core MVC and Entity Framework.</p>
 </br>
 <p><b>Login:</b></p>
