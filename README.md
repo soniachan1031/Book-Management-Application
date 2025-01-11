@@ -6,11 +6,11 @@ Admin Panel:
 <li>Manage members (add, edit, delete) and books (add, edit, delete).</li>
 <li>Assign and unassign books to members with validation.</li>
 <li>Monitor book quantities and availability.</li>
-</br>
+
 Member Panel:
 <li>Search for books using filters (title, author, availability).</li>
 <li>Issue and return books with real-time availability updates.</li>
-</br>
+
 Login and Registration:
 <li>Secure and user-friendly authentication system.</li>
 </br>
