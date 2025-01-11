@@ -2,11 +2,10 @@
 <p>This project is a feature-rich Book Management Application developed using ASP.NET Core MVC and Entity Framework.</p>
 
 <p><b>Key Features:</b></p>
-<ul>Admin Panel:
+<ul>Admin Panel:</ul>
 <li>Manage members (add, edit, delete) and books (add, edit, delete).</li>
 <li>Assign and unassign books to members with validation.</li>
 <li>Monitor book quantities and availability.</li>
-</ul>
 
 </br>
 
